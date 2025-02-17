@@ -31,7 +31,7 @@ This Power BI project provides a comprehensive analysis of mobile sales data, in
 - Daily and monthly purchase trends to analyze peak sales days.
 
 ## 📂 Dataset
-<a href="https://github.com/DataWithRohit/PowerBI-Dashboard/blob/main/Mobile%20Sales%20Data%20(2).xlsx">Mobile Sales Dataset</a>
+<a>Mobile Sales Dataset</a>
 The dataset contains mobile sales records, including:
 - **Date** (Year, Quarter, Month, Day)
 - **Total Sales & Quantity**
@@ -59,7 +59,7 @@ The dataset contains mobile sales records, including:
 - **Customer Ratings:** A significant portion of customers rated their purchases as **Good**, indicating high satisfaction.
 
 
-🔗 **Connect with Me:** [www.linkedin.com/in/rohit-panwar22]
+🔗 **Connect with Me:** [https://www.linkedin.com/in/likith-kanumuri-5b0529287/]
 
 📌 If you find this project useful, don't forget to ⭐ star the repository!
 
